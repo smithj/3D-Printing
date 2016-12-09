@@ -1,0 +1,22 @@
+[general]
+version = 1
+name = Current settings
+weight = 0
+machine_type = prusa_i3
+
+[settings]
+speed_wall_0 = 40
+material_flow = 97
+material_print_temperature = 215
+cool_min_layer_time = 3
+speed_travel = 120
+material_bed_temperature = 60
+layer_height = 0.15
+wall_thickness = 1
+speed_infill = 100
+speed_topbottom = 30
+speed_wall_x = 80
+retraction_amount = 6.5
+infill_sparse_density = 10
+adhesion_type = skirt
+
